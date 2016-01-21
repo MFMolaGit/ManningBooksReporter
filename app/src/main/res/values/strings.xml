@@ -2,6 +2,8 @@
 <resources>
 
     <string name="app_name">ManningBooksReporter</string>
-    <string name="hello_world">Hello world!</string>
-
+    <string name="manningReporterMainTitle">Manning Books Reporter</string>
+	<string name="dateFilterField">Introduce fecha</string>
+	<string name="textFilterField">Introduce titulo de libro</string>
+	<string name="offersMainLabel">Ofertas encontradas</string>
 </resources>
