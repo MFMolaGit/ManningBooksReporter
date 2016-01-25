@@ -6,4 +6,6 @@
 	<string name="dateFilterField">Introduce fecha</string>
 	<string name="textFilterField">Introduce titulo de libro</string>
 	<string name="offersMainLabel">Ofertas encontradas</string>
+	<string name="currentOfferLabel">Oferta de hoy</string>
+	
 </resources>
