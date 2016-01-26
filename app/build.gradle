@@ -30,5 +30,7 @@ dependencies {
 }
 
 repositories {
-	url 'http://maven.springframework.org/milestone'
+	maven {
+		url 'http://maven.springframework.org/milestone'
+	}
 }
